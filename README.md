@@ -1,4 +1,4 @@
-# swagger-client
+# Azure Batch Transcription API Python Client
 
 Speech to Text API v3.0.
 
