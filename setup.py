@@ -33,7 +33,7 @@ setup(
     url="",
     keywords=["Swagger", "Speech to Text API v3.0"],
     install_requires=REQUIRES,
-    packages=find_packages(),
+    packages=find_packages("./src/*"),
     include_package_data=True,
     long_description="""\
     Speech to Text API v3.0.  # noqa: E501
